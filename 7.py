@@ -14,3 +14,4 @@ print(*(reverce(a[:c])+reverce(a[c:])))
     
     2 6 7 7 1 4 2 4 6 9
 '''
+#Запустить код можно на http://ideone.com/ . Язык Python 3.
