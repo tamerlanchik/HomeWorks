@@ -5,3 +5,5 @@ if X<0 or X>4: print('Таких элементов нет')
 else:
     for i in range(len(a)):
         if X==a[i]: print(i, end=' ')
+
+#Запустить код можно на http://ideone.com/ . Язык Python 3.
