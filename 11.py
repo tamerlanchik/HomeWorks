@@ -15,7 +15,7 @@ for i in a:
     if isPrime(i)==True:
         New.append(i)
 if len(New)==0:
-    print('Âñå ñîñòàâíûå')
+    print('Все составные')
 else:
     print(*New)
     
